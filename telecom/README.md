@@ -3,10 +3,4 @@
 
 | Название проекта | Описание | Используемые библиотеки |
 | :-------------------- | :-------------------- |:--------------------|
-| [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/sharovsharov/data_analyst_practicum/blob/main/research_apartment/research_apartment_listings.ipynb)| Определение выгодного тарифа для телеком компании | Python
-Pandas
-Matplotlib
-NumPy
-SciPy
-описательная статистика
-проверка статистических гипотез |
+| [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/sharovsharov/data_analyst_practicum/blob/main/research_apartment/research_apartment_listings.ipynb)| Определение выгодного тарифа для телеком компании | Python, Pandas, Matplotlib, NumPy, SciPy, описательная статистика, проверка статистических гипотез |
