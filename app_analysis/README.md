@@ -3,4 +3,4 @@
 
 | Название проекта | Описание | Используемые библиотеки |
 | :-------------------- | :-------------------- |:--------------------|
-| [Анализ убытков приложения ProcrastinatePRO+](https://github.com/sharovsharov/data_analyst_practicum/blob/main/research_apartment/research_apartment_listings.ipynb)| Проведен анализ данных от ProcrastinatePRO+. Рассчитаны различные метрики, использован когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д. Использованы уже написанные ранее функции расчёта метрик. Сделаны правильные выводы по полученным данным.| Python, Pandas, Matplotlib, когортный анализ, юнит-экономика, продуктовые метрики, Seaborn |
+| [Анализ убытков приложения ProcrastinatePRO+](https://github.com/sharovsharov/data_analyst_practicum/blob/main/research_apartment/research_apartment_listings.ipynb)| Провел анализ данных приложения. Рассчитал метрики, использовав когортный анализ: LTV, CAC, Retention rate, DAU, WAU, MAU и т.д.| Python, Pandas, Matplotlib, когортный анализ, юнит-экономика, продуктовые метрики, Seaborn |
